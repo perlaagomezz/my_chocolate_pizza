@@ -57,10 +57,9 @@ display: inline-block;
     border: 0;
 
   }
-  
-  h1 {
-    font-size: 30px;
-    margin-top: 1em;
+  form{
+    list-style-type: none; /* Remove bullets */
+
   }
   
   h2 {
